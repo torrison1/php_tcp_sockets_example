@@ -1,0 +1,5 @@
+Easy Sockets Example
+
+1) Run in cmd 'php socket_server_easy.php'
+1) Run in cmd 'php socket_client_test.php'
+
